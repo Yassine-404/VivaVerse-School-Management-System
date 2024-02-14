@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Yassine-404/VivaVerse-School-Management-System/blob/main/public/assets/img/logo-dark.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Yassine-404/VivaVerse-School-Management-System/blob/main/public/assets/img/logo-dark.svg" width="300"></a></p>
 
 
 ## About VivaVerse
